@@ -11,14 +11,14 @@ module GitHubPages
       "jekyll-sass-converter" => "1.5.2",
 
       # Converters
-      "kramdown" => "2.3.0",
+      "kramdown" => "2.3.1",
       "kramdown-parser-gfm" => "1.1.0",
       "jekyll-commonmark-ghpages" => "0.1.6",
 
       # Misc
       "liquid" => "4.0.3",
-      "rouge" => "3.23.0",
-      "github-pages-health-check" => "1.16.1",
+      "rouge" => "3.26.0",
+      "github-pages-health-check" => "1.17.2",
 
       # Plugins
       "jekyll-redirect-from" => "0.16.0",
@@ -30,7 +30,7 @@ module GitHubPages
       "jekyll-seo-tag" => "2.7.1",
       "jekyll-github-metadata" => "2.13.0",
       "jekyll-avatar" => "0.7.0",
-      "jekyll-remote-theme" => "0.4.2",
+      "jekyll-remote-theme" => "0.4.3",
 
       # Plugins to match GitHub.com Markdown
       "jemoji" => "0.12.0",
